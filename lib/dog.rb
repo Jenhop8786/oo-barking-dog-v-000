@@ -1,1 +1,8 @@
-# Your code goes here!
+class Dog
+  def name=(name)
+    @name = fido
+  end
+  def bark
+    puts "woof!"
+  end
+
