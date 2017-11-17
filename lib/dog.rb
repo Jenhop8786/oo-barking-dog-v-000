@@ -1,6 +1,6 @@
 class Dog
   def name=(name)
-    @name = fido
+    @name = name
   end
   def bark
     puts "woof!"
